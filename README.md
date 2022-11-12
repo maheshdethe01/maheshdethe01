@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-<img align="center" src="https://github.com/maheshdethe01/maheshdethe01/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(6).gif" width="400" height ="100" />
+<img align="center" src="https://github.com/maheshdethe01/maheshdethe01/blob/main/Hello%20Everyone%20-%20Made%20with%20Clipchamp.gif" width="400" height ="100" />
 <h3 align="center">I'm a Data Analyst with hands-on experience in Analyzing & Visualizing Data so that the it will help our company's growth.Adaptable at learning, unlearning, and relearning.Proficient in Excel, SQL, Python, Tableau. Highly skilled in collaboration, decision-making, Data Cleaning & Visualization.</h3>
 
 <div>
