@@ -1,24 +1,30 @@
-# Hi there, I'm MAHESH DETHE 👋
+# Hi there, I'm Mahesh Dethe 👋
+
+---
 
 ### 🚀 Data Science Enthusiast
 
-I'm an Analyst with a strong foundation in **data analytics** and **business intelligence**, with hands-on experience in tools like **Tableau**, **Python**, **Excel**, **Google Sheets**, and **MSSQL**. My passion lies in uncovering insights and identifying key data points that help to bridge gaps, highlight trends, and enable informed decision-making.
+I'm a Data Science Enthusiast with a strong foundation in **data analytics** and **business intelligence**, with hands-on experience in tools like **Tableau**, **Python**, **Excel**, **Google Sheets**, and **MSSQL**. I’m passionate about uncovering data-driven insights to highlight trends, bridge gaps, and help drive informed decision-making.
 
 ---
 
 ### 💡 About Me
-- 📊 **Data Analysis & Visualization**: Skilled at identifying key data insights to explore patterns, find trends, and provide data-backed recommendations.
+- 📊 **Data Analysis & Visualization**: Skilled at identifying key insights to explore patterns, find trends, and provide data-backed recommendations.
 - 📈 **Problem Solver**: Driven to tackle complex analytical challenges, translate data into actionable plans, and help make impactful business decisions.
-- 🎯 **Passionate about Learning**: Constantly expanding my skills in data science and staying updated with industry best practices.
+- 🎯 **Continuous Learner**: Constantly expanding my skills in data science and staying updated with industry best practices.
+
 
 ---
 
 ### 🔧 Skills & Tools
-- **Data Visualization**: Tableau, Power BI
-- **Programming**: Python (Pandas, NumPy, Matplotlib, Seaborn)
-- **Data Management**: MSSQL, Excel, Google Sheets
-- **Statistics**: Hypothesis testing, Regression, Time-series analysis
-- **Collaboration**: Git, JIRA, Confluence
+| Skills                 | Tools |
+|------------------------|-------|
+| Data Visualization     | Tableau, Power BI |
+| Programming            | Python (Pandas, NumPy, Matplotlib, Seaborn) |
+| Data Management        | MSSQL, Excel, Google Sheets |
+| Statistics             | Hypothesis testing, Regression, Time-series analysis |
+| Collaboration          | Teams, G-Suite |
+
 
 ---
 
@@ -29,8 +35,10 @@ I'm an Analyst with a strong foundation in **data analytics** and **business int
 
 ---
 
-### 📫 Connect with Me
-- **LinkedIn**: https://www.linkedin.com/in/maheshdethe/
-- **Email**: mddetheanalyst@gmail.com
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/maheshdethe)
+[![Email](https://img.shields.io/badge/Email-Contact-orange)](mailto:mddetheanalyst@gmail.com)
 
-Thank you for visiting my GitHub profile! Looking forward to connecting and collaborating with you on data-driven projects that make a real difference!
+![Footer GIF](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
+
+Thank you for visiting my GitHub profile! Looking forward to connecting and collaborating on impactful, data-driven projects!
