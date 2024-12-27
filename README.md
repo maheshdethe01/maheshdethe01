@@ -4,7 +4,7 @@
 
 ### From noise to signal
 
-I'm a Data Science Enthusiast with a strong foundation in **data analytics** and **business intelligence**, with hands-on experience in tools like **Tableau**, **Python**, **Excel**, **Google Sheets**, and **MSSQL**. I’m passionate about uncovering data-driven insights to highlight trends, bridge gaps, and help drive informed decision-making.
+I'm an continuos learner with a strong foundation in **data analytics** and **business intelligence**, with hands-on experience in tools like **Tableau**, **Python**, **Excel**, **Google Sheets**, and **MSSQL**. I’m passionate about uncovering data-driven insights to highlight trends, bridge gaps, and help drive informed decision-making.
 
 ---
 
