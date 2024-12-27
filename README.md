@@ -1,4 +1,4 @@
-# Hi there, I'm Mahesh Dethe 👋
+# Hi there, Mahesh here.
 
 ---
 
