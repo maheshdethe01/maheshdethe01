@@ -19,7 +19,7 @@ I'm an continuos learner with a strong foundation in **data analytics** and **bu
 ### 🔧 Skills & Tools
 | Skills                 | Tools |
 |------------------------|-------|
-| Data Visualization     | Tableau, Power BI |
+| Data Visualization     | Tableau |
 | Programming            | Python (Pandas, NumPy, Matplotlib, Seaborn) |
 | Data Management        | MSSQL, Excel, Google Sheets |
 | Statistics             | Hypothesis testing, Regression, Time-series analysis |
@@ -39,6 +39,5 @@ I'm an continuos learner with a strong foundation in **data analytics** and **bu
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/maheshdethe)
 [![Email](https://img.shields.io/badge/Email-Contact-orange)](mailto:mddetheanalyst@gmail.com)
 
-![Footer GIF](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
 
 Thank you for visiting my GitHub profile! Looking forward to connecting and collaborating on impactful, data-driven projects!
