@@ -9,7 +9,7 @@ I am an AI learner focused on the intersection of deep learning performance and 
 ## 🚀 Technical Expertise
 
 ### **Machine Learning & NLP**
-* **Architectures:** Transformers (BERT, RoBERTa, GPT-2), CNNs, RNNs, SVMs.
+* **Architectures:** Transformers, CNNs, RNNs, SVMs.
 * **Tools:** Hugging Face, VS Code, Google Colab.
 * **Evaluation:** Comparative analysis of Accuracy, F1-Score, and Inference Latency.
 * **Traditional ML:** XGBoost, CatBoost, LightGBM, Logistic Regression, Naive Bayes.
